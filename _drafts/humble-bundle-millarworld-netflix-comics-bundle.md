@@ -1,6 +1,7 @@
 ---
 layout: post
-categories: []
+categories:
+- humble bundle
 title: Humble Bundle - Millarworld & Netflix Comics Bundle
 author: deals beam
 image: "/assets/images/millarworldnetflixcomicsfromimagecomics_bundle-blog.png"
